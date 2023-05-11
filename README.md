@@ -26,53 +26,55 @@
  # 이미지
 + 메인 페이지
   + 상품 목록
-  + 상품 조회 가능
+  + 상품 조회 가능</br></br>
 ![화면 캡처 2023-05-11 173336](https://github.com/kimsib/bookstore/assets/87972038/9eba6281-8959-43a8-9350-661cbe00f7f1)
-
+</br></br></br>
  
 + 회원가입
   + 아이디 중복검사
-  + 프론트, 서버 모두 유효성 검사
+  + 프론트, 서버 모두 유효성 검사</br></br>
 ![image](https://github.com/kimsib/bookstore/assets/87972038/612363f6-0f7a-4140-95db-db196e5962ef)
-
+</br></br></br>
 
 + 로그인
-  + 프론트, 서버 모두 유효성 검사
+  + 프론트, 서버 모두 유효성 검사</br></br>
 ![image](https://github.com/kimsib/bookstore/assets/87972038/a2b90417-5fea-472a-a109-9e298882747d)
-
+</br></br></br>
 
 + 상품 상세페이지
   + 수량변경 
   + 장바구니 추가
-  + 주문하기
+  + 주문하기</br></br>
 ![image](https://github.com/kimsib/bookstore/assets/87972038/e5d939a7-b328-470e-b196-98d979da9430)
-
+</br></br></br>
 
 + 장바구니
   + 개별 혹은 선택주문
   + 수량변경, 삭제 가능
-  + 주문하기
+  + 주문하기</br></br>
 ![image](https://github.com/kimsib/bookstore/assets/87972038/e4c4e2bd-b71e-43c1-9495-9317213ff03d)
-
+</br></br></br>
     
 + 구매 이력
   + 주문한 상품에 대한 기본정보들
-  + 주문 취소
+  + 주문 취소</br></br>
 ![image](https://github.com/kimsib/bookstore/assets/87972038/41327e2a-2240-4982-8a78-36e8be0fb06b)
+</br></br></br>
 
 + 주문
   + 비동기 통신 방법인 Ajax를 이용하여 주문 요청 및 응답
-  + 상품 주문
+  + 상품 주문</br></br>
 ![image](https://github.com/kimsib/bookstore/assets/87972038/e5e302c9-3b21-478b-8f2e-4baa72d7c196)
+</br></br></br>
 
 + 관리자 페이지 상품 등록
   + 상품 등록 및 상품 수정
-  + 입력 값 검증 및 에러 메시지 표시
+  + 입력 값 검증 및 에러 메시지 표시</br></br>
 ![image](https://github.com/kimsib/bookstore/assets/87972038/f8fcc05b-656f-4da6-840a-53ac8fad36f8)
-
+</br></br></br>
 
 + 관리자 페이지 상품 관리
   + 상품 동적 조회
-  + 상품 수정 
+  + 상품 수정</br></br>
 ![image](https://github.com/kimsib/bookstore/assets/87972038/d7bc1d81-2f6f-4ec0-9dfa-6445aa16ddbe)
 
