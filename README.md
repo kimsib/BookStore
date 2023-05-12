@@ -35,13 +35,13 @@ Hibernate, MySQL
 + 메인 페이지
   + 상품 목록
   + 상품 조회 가능</br></br>
-![화면 캡처 2023-05-11 173336](https://github.com/kimsib/bookstore/assets/87972038/9eba6281-8959-43a8-9350-661cbe00f7f1)
+![image](https://github.com/kimsib/bookstore/assets/87972038/b7dc4191-6550-400f-9284-54d751438c73)
 </br></br></br>
  
 + 회원가입
   + 아이디 중복검사
   + 프론트, 서버 모두 유효성 검사</br></br>
-![image](https://github.com/kimsib/bookstore/assets/87972038/612363f6-0f7a-4140-95db-db196e5962ef)
+![image](https://github.com/kimsib/bookstore/assets/87972038/468de1a2-90e8-464b-b194-32a6d9061a65)
 </br></br></br>
 
 + 로그인
@@ -53,36 +53,41 @@ Hibernate, MySQL
   + 수량변경 
   + 장바구니 추가
   + 주문하기</br></br>
-![image](https://github.com/kimsib/bookstore/assets/87972038/e5d939a7-b328-470e-b196-98d979da9430)
+![image](https://github.com/kimsib/bookstore/assets/87972038/acb09247-f74d-4f4b-a14a-928898fd2228)
 </br></br></br>
 
 + 장바구니
   + 개별 혹은 선택주문
   + 수량변경, 삭제 가능
   + 주문하기</br></br>
-![image](https://github.com/kimsib/bookstore/assets/87972038/e4c4e2bd-b71e-43c1-9495-9317213ff03d)
+![화면 캡처 2023-05-12 172206](https://github.com/kimsib/bookstore/assets/87972038/de2c6f7c-7fbf-4a20-8aff-482951b0a872)
 </br></br></br>
     
 + 구매 이력
   + 주문한 상품에 대한 기본정보들
   + 주문 취소</br></br>
-![image](https://github.com/kimsib/bookstore/assets/87972038/41327e2a-2240-4982-8a78-36e8be0fb06b)
+![image](https://github.com/kimsib/bookstore/assets/87972038/57f4e897-80ff-4a89-8aab-46a4a7dc3b1c)
 </br></br></br>
 
 + 주문
   + 비동기 통신 방법인 Ajax를 이용하여 주문 요청 및 응답
   + 상품 주문</br></br>
-![image](https://github.com/kimsib/bookstore/assets/87972038/e5e302c9-3b21-478b-8f2e-4baa72d7c196)
+![image](https://github.com/kimsib/bookstore/assets/87972038/c30e563e-b29b-4ed9-9e7f-96b834132d03)
+
 </br></br></br>
 
 + 관리자 페이지 상품 등록
   + 상품 등록 및 상품 수정
   + 입력 값 검증 및 에러 메시지 표시</br></br>
-![image](https://github.com/kimsib/bookstore/assets/87972038/f8fcc05b-656f-4da6-840a-53ac8fad36f8)
+![image](https://github.com/kimsib/bookstore/assets/87972038/6ec1a752-8839-482e-89b8-d55d63d07d38)
 </br></br></br>
 
 + 관리자 페이지 상품 관리
   + 상품 동적 조회
   + 상품 수정</br></br>
-![image](https://github.com/kimsib/bookstore/assets/87972038/d7bc1d81-2f6f-4ec0-9dfa-6445aa16ddbe)
+![image](https://github.com/kimsib/bookstore/assets/87972038/185203c5-4bbb-4e29-8446-a1dd925205fd)
+![화면 캡처 2023-05-12 175346](https://github.com/kimsib/bookstore/assets/87972038/83cef160-bf8b-471f-9398-99f2d4965049)
+
+
+
 
