@@ -1,14 +1,22 @@
 # portfolio_bookstoreWeb
 미니 쇼핑몰 개인 프로젝트입니다.
 
+# 프로젝트 개발 환경
+1. 운영체제 : Window
+2. 통합개발환경(IDE) : IntelliJ
+3. JDK 버전 : JDK 11
+4. 스프링 부트 버전 : 2.5.5
+5. 데이터 베이스 : MySQL
+6. 빌드 툴 : Maven
+7. 관리 툴 : Git, GitHub
+
 # 사용 기술스택
-- java 11
-- Spring Boot
-- Spring Security
-- Spring Data Jpa
-- Querydsl
-- Thymeleaf
-- Mysql
+- 프론트엔드</br>
+HTML, CSS, JS, BootStrap, Thymeleaf</br></br>
+- 백엔드</br>
+Spring Boot, Spring Security, Spring Data JPA</br></br>
+- 데이터베이스</br>
+Hibernate, MySQL
 
 # 구현 기능
 + 회원(Member)
