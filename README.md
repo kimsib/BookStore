@@ -1,7 +1,6 @@
 # portfolio_bookstoreWeb
 미니 쇼핑몰 개인 프로젝트입니다.</br>
-[시연영상](https://youtu.be/'tKdjnVuh55o')
-
+[미리보기](https://youtu.be/tKdjnVuh55o)
 # 프로젝트 개발 환경
 1. 운영체제 : Window
 2. 통합개발환경(IDE) : IntelliJ
