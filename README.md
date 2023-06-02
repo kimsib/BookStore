@@ -1,6 +1,6 @@
 # portfolio_bookstoreWeb
 미니 쇼핑몰 개인 프로젝트입니다.</br></br>
-![ezgif com-video-to-gif](https://github.com/kimsib/bookstore/assets/87972038/b6114892-9215-4fd8-b489-b63ddb54292d) </br></br>
+![ezgif com-video-to-gif (1)](https://github.com/kimsib/bookstore/assets/87972038/4a2f9817-6f62-4d93-aa8a-2d64d578ee49) </br></br>
 [시연영상](https://youtu.be/tKdjnVuh55o)
 # 프로젝트 개발 환경
 1. 운영체제 : Window
