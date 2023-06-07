@@ -32,7 +32,7 @@ Hibernate, MySQL
 + 장바구니(Cart)
   + 장바구니 담기/ 장바구니 조회 / 장바구니 삭제 / 장바구니 상품 주문
  
- # 이미지
+# 이미지
 + 메인 페이지
   + 상품 목록
   + 상품 조회 가능</br></br>
@@ -88,6 +88,42 @@ Hibernate, MySQL
   + 상품 수정</br></br>
 ![image](https://github.com/kimsib/bookstore/assets/87972038/185203c5-4bbb-4e29-8446-a1dd925205fd)
 ![화면 캡처 2023-05-12 175346](https://github.com/kimsib/bookstore/assets/87972038/83cef160-bf8b-471f-9398-99f2d4965049)
+</br></br></br>
+
+# 프로젝트 DB 모델링
+ ![bookstore erd 2](https://github.com/kimsib/bookstore/assets/87972038/ad6383aa-8f3b-4296-b419-c4d1caa54618)
+</br>
++ member - 쇼핑몰 회원 정보 테이블
++ cart - 회원의 장바구니 목록 테이블
++ cart_item - 장바구니에 담긴 상품 정보 테이블
++ orders - 쇼핑몰 회원들의 주문 목록 테이블
++ order_item - 주문된 상품 정보 테이블
++ item - 쇼핑몰 상품 정보 테이블
++ item_img - 상품에 대한 이미지 정보를 담고 있는 테이블
+</br></br></br>
+
+# 프로젝트 API 명세서
+ ![화면 캡처 2023-06-07 155213](https://github.com/kimsib/bookstore/assets/87972038/7e789bff-44c1-47ee-a347-6d9fb141c84c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
