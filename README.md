@@ -1,4 +1,4 @@
-# portfolio_bookstoreWeb
+# Portfolio_BookStoreWeb
 미니 쇼핑몰 개인 프로젝트입니다.</br></br>
 ![ezgif com-video-to-gif (1)](https://github.com/kimsib/bookstore/assets/87972038/4a2f9817-6f62-4d93-aa8a-2d64d578ee49) </br></br>
 [시연영상](https://youtu.be/tKdjnVuh55o)
