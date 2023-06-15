@@ -103,7 +103,7 @@ Hibernate, MySQL
 </br></br></br>
 
 # 프로젝트 API 명세서
- ![화면 캡처 2023-06-07 155213](https://github.com/kimsib/bookstore/assets/87972038/7e789bff-44c1-47ee-a347-6d9fb141c84c)
+![화면 캡처 2023-06-07 155213](https://github.com/kimsib/BookStore/assets/87972038/7af4ec6e-cc1b-4b5d-827d-2fbe1db0c4b0)
 
 
 
