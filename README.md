@@ -1,5 +1,6 @@
 # Portfolio_BookStoreWeb
-미니 쇼핑몰 개인 프로젝트입니다.</br></br>
+미니 쇼핑몰 개인 프로젝트입니다.</br>
+개 발 기 간 : 2023.01 ~ 2023.05</br></br>
 ![ezgif com-video-to-gif](https://github.com/kimsib/BookStore/assets/87972038/56be3c2e-ec23-4918-bd83-41b17c38bb63)
 </br></br>
 [시연영상](https://youtu.be/tKdjnVuh55o)
